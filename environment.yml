@@ -2,10 +2,9 @@
   
   dependencies:
     - python=3.6
-    - IPython.display
     - pandas
     - ipywidgets
     - beakers
     - numpy
-    - matplotlib.pyplot
+    - matplotlib
     - subprocess
