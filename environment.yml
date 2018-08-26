@@ -7,5 +7,4 @@
     - beakerx
     - numpy
     - matplotlib
-    - warnings
     - plotly
