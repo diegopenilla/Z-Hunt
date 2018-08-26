@@ -7,3 +7,4 @@
     - beakerx
     - numpy
     - matplotlib
+    - warnings
