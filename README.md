@@ -1,3 +1,12 @@
 # Z-Hunt
 
-Open this using binder: and open the Tutorial.ipynb
+Hi Leonie, 
+
+try opening the notebook using this link
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/diegopenilla/Z-Hunt/master)
+
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/diegopenilla/Z-Hunt/master
+
+
+
