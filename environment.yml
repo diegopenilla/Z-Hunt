@@ -7,4 +7,4 @@
     - beakerx
     - numpy
     - matplotlib
-    - plotly
+    - plotly=3.10
